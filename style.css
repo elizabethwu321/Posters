@@ -1,0 +1,115 @@
+div {
+}
+
+.flex {
+	display: flex;
+	width: 100%;
+	margin-top: 20px;
+	margin-right: 0px;
+	margin-bottom: 20px;
+	margin-left: 0px;
+}
+
+h1 {
+	font-family: "avenir", serif;
+	font-size: 20px;
+	text-align: center;
+	color: white;
+}
+
+h2 {
+	font-family: "avenir", serif;
+	font-size: 15px;
+	text-align: center;
+	color: black;
+}
+
+h3 {
+	font-family: "avenir", serif;
+	font-size: 13px;
+	text-align: center;
+	color: black;
+}
+
+h4 {
+	font-family: "avenir", serif;
+	font-size: 13px;
+	font-weight: lighter;
+	text-align: center;
+	color: white;
+}
+
+h5 {
+	font-family: "futura", serif;
+	font-size: 13px;
+	font-weight: lighter;
+	text-align: center;
+	color: white;
+	margin: auto;
+}
+
+h6 {
+	font-family: "roboto", serif;
+	font-size: 13px;
+	font-weight: lighter;
+	text-align: center;
+	color: white;
+	margin: auto;
+}
+
+p {
+	font-family: "roboto", serif;
+	font-size: 20px;
+	font-weight: lighter;
+	text-align: center;
+	color: white;
+}
+
+.red, .yellow, .blue, .green, .purple {
+	width: 500px;
+	height: 550px;
+	margin: auto;
+}
+
+.red {
+	background-color: darkorange;
+}
+
+.yellow {
+	background-color: darkgrey;
+}
+
+.blue {
+	background-color: maroon;
+}
+
+.green {
+	background-color: green;
+}
+
+.purple {
+	background-color: purple;
+}
+
+.space-around {
+	justify-content: space-around;
+}
+
+.flex-vertical {
+	display: flex;
+	height: 3500px;
+	flex-direction: column;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
