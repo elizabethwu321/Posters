@@ -50,7 +50,7 @@ h5 {
 
 h6 {
 	font-family: "roboto", serif;
-	font-size: 13px;
+	font-size: 15px;
 	font-weight: lighter;
 	text-align: center;
 	color: white;
@@ -59,10 +59,11 @@ h6 {
 
 p {
 	font-family: "roboto", serif;
-	font-size: 20px;
+	font-size: 24px;
 	font-weight: lighter;
 	text-align: center;
 	color: white;
+	margin: auto;
 }
 
 .red, .yellow, .blue, .green, .purple {
